@@ -16,6 +16,7 @@ models:
                   - completed
                   - shipped
                   - placed
+                  - returned
                   - return_pending
       - name: customer_id
         data_tests:
