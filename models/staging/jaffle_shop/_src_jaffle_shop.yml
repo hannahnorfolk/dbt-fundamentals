@@ -18,7 +18,6 @@ sources:
             data_tests:
               - unique
               - not_null
-        freshness: null
       - name: orders
         columns:
           - name: id
